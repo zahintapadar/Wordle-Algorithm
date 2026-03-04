@@ -8,6 +8,10 @@ A high-performance Wordle solver implemented in C, based on the **3Blue1Brown In
 - **Fixed-Point Math**: Replaces floating-point entropy with integer-scaled fixed-point arithmetic using `__builtin_clz` for speed and size.
 - **Dynamic Pruning**: Efficiently narrows down the list of ~13,000 allowed words based on user feedback.
 
+
+https://github.com/user-attachments/assets/a6535eab-90c0-4369-9067-c63674188ad5
+
+
 ## 🛠 Compilation & Usage
 
 ### Prerequisites
